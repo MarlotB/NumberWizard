@@ -10,7 +10,7 @@ public class NumberWizard : MonoBehaviour {
 	int guess = 500;
 
 	void Start () {
-		print ("Welcome to Number Wizard");
+		print ("Welcome to Number Wizard!");
 		print ("Pick a number in your head, but don't tell me");
 
 		print ("The highest number you can pick is " + max);
